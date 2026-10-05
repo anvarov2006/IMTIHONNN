@@ -720,3 +720,4 @@ Production muhitida quyidagilarni qo‘shish tavsiya etiladi:
 **Event Platform Backend**
 
 Node.js + Express.js asosida ishlab chiqilgan REST API loyiha.
+# imtihon
