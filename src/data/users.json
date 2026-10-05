@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "full_name": "Islom Islomov",
+    "email": "ali@mail.uz",
+    "password": "$2b$10$Qe8v...hash...",
+    "is_verified": false,
+    "created_at": "2026-10-01T09:15:00.000Z"
+  },
+  {
+    "id": 2,
+    "full_name": "Vali Valiyev",
+    "email": "vali@mail.uz",
+    "password": "$2b$10$e2/p6j7LgQvf4miO64GcBeTwRy/IFHp0gPYHAHmoDR3oOyRRvKNQC",
+    "is_verified": false,
+    "created_at": "2026-10-02T12:54:24.610Z"
+  },
+  {
+    "id": 3,
+    "full_name": "Vali Valiyev",
+    "email": "valiii@mail.uz",
+    "password": "$2b$10$adGbUwfFUEli5s8na1EBtehUTr5/D.bTitJq5hxwAZTvUuGV8t1Ue",
+    "is_verified": false,
+    "created_at": "2026-10-02T12:55:14.987Z"
+  },
+  {
+    "id": 4,
+    "full_name": "Valiii Valiyev",
+    "email": "valiiiiii@mail.uz",
+    "password": "$2b$10$VwodqMqNPmonYcdWfyOXueMFyaYx759BJNSrOgGYfDxhhmh7MBmG.",
+    "is_verified": false,
+    "created_at": "2026-10-02T13:01:39.439Z"
+  },
+  {
+    "id": 5,
+    "full_name": "Valiiiiii Valiyev",
+    "email": "valiiiiiiiii@mail.uz",
+    "password": "$2b$10$tiY3p7QDOTFOMrmStCWYS.PHpxPgdA27F59xc1Kq8xekn8SBlM2Ju",
+    "is_verified": false,
+    "created_at": "2026-10-02T13:03:19.169Z"
+  },
+  {
+    "id": 6,
+    "full_name": "Valiiiiii Valiyev",
+    "email": "valiiiiiiiiiii@mail.uz",
+    "password": "$2b$10$sf2ftqL1/Mbs.NFtv7gWBu6UhoNgZZbIFgSif09BDg6B89yjDcr.i",
+    "is_verified": false,
+    "created_at": "2026-10-02T13:03:49.284Z"
+  },
+  {
+    "id": 7,
+    "full_name": "dil Valiyev",
+    "email": "dili@mail.uz",
+    "password": "$2b$10$29na3L5epWxaE8EuBaKURuqujnFvbyVz5k3xTe4AZ2txrgcXHK/Cu",
+    "is_verified": false,
+    "created_at": "2026-10-02T13:04:18.585Z"
+  },
+  {
+    "id": 8,
+    "full_name": "dili Valiyev",
+    "email": "diliii@mail.uz",
+    "password": "$2b$10$OvfTDHBiopGUWeaQ0Fp3geNsl4cfIXtwquhj9eS2pEghUEUxjCKk.",
+    "is_verified": false,
+    "created_at": "2026-10-02T14:20:54.734Z"
+  },
+  {
+    "id": 9,
+    "full_name": "dili Valiyev",
+    "email": "dilgfggfi@mail.uz",
+    "password": "$2b$10$A.wggnipw9rUmD09W1QK8OGdxvmO8QRIF.gzEO9AzAdgsvTtT1ibC",
+    "is_verified": false,
+    "created_at": "2026-10-02T14:21:09.907Z"
+  }
+]

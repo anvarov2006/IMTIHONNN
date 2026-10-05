@@ -1,0 +1,12 @@
+[
+{
+ "id": 1,
+ "user_id": 1,
+ "event_id": 1,
+ "seats": 2,
+ "total_price": 0,
+ "ticket_code": "EVH-7K2Q9X",
+ "status": "confirmed", 
+ "created_at": "2026-10-02T12:30:00.000Z"
+}
+]

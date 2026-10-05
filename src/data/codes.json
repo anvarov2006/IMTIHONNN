@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "code": "$2b$10$Xk2m...hash...",
+    "purpose": "verify_email",
+    "attempts": 0,
+    "expires_at": "2026-10-01T09:25:00.000Z",
+    "used": true,
+    "created_at": "2026-10-01T09:15:00.000Z"
+  },
+  {
+    "id": 2,
+    "user_id": 6,
+    "code": "$2b$10$f4rKFWsfa9P4HWFIq0nk8.BX6IIralmh4mCy9P8Sj4RtfRlaXRA/6",
+    "purpose": "verify_email",
+    "attempts": 0,
+    "expires_at": "2026-10-02T13:13:49.408Z",
+    "used": false,
+    "created_at": "2026-10-02T13:03:49.408Z"
+  },
+  {
+    "id": 3,
+    "user_id": 7,
+    "code": "$2b$10$ZalnOf9GTSNK8qJjnOIMXufkELtzE2WW5Pi8EQXxtFs806rp2dXI6",
+    "purpose": "verify_email",
+    "attempts": 0,
+    "expires_at": "2026-10-02T13:14:18.709Z",
+    "used": false,
+    "created_at": "2026-10-02T13:04:18.709Z"
+  },
+  {
+    "id": 4,
+    "user_id": 8,
+    "code": "$2b$10$/oXuE/jRlaeAF9YMfsq9v.FDCZiuCwb9tqLp7vGGoldkn5RA6VEzK",
+    "purpose": "verify_email",
+    "attempts": 0,
+    "expires_at": "2026-10-02T14:30:54.883Z",
+    "used": false,
+    "created_at": "2026-10-02T14:20:54.883Z"
+  },
+  {
+    "id": 5,
+    "user_id": 9,
+    "code": "$2b$10$S2kwv.HzLHA8MbjwGReCseypet5JZK2VFBrJSx3/j0J/NK/Hi4EoC",
+    "purpose": "verify_email",
+    "attempts": 0,
+    "expires_at": "2026-10-02T14:31:10.069Z",
+    "used": false,
+    "created_at": "2026-10-02T14:21:10.069Z"
+  },
+  {
+    "id": 6,
+    "user_id": 1,
+    "code": "$2b$10$FRsYZBz8tMY/XKE1YJ35Y./yTUPSDoYnOomQztI8yscC1hZ/7lvsW",
+    "purpose": "verify_email",
+    "attempts": 0,
+    "expires_at": "2026-10-02T15:20:53.949Z",
+    "used": false,
+    "created_at": "2026-10-02T15:10:53.949Z"
+  },
+  {
+    "id": 7,
+    "user_id": 1,
+    "code": "$2b$10$RyJxOwvI/mWuWWPxi.9.OecNmlbE2FTDNRT7U1Q5UYv8I4vKHuzdK",
+    "purpose": "reset_password",
+    "attempts": 1,
+    "expires_at": "2026-10-02T16:01:37.296Z",
+    "used": false,
+    "created_at": "2026-10-02T15:51:37.296Z"
+  },
+  {
+    "id": 8,
+    "user_id": 2,
+    "code": "$2b$10$wlMvHdR8hAE3SB2N0/bMk.QjeJ15I/u47.Zj0bJOOFykRhiEt1lAW",
+    "purpose": "reset_password",
+    "attempts": 2,
+    "expires_at": "2026-10-02T16:02:35.167Z",
+    "used": false,
+    "created_at": "2026-10-02T15:52:35.167Z"
+  }
+]

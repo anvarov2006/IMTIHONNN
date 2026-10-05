@@ -1,0 +1,15 @@
+[
+{
+ "id": 1,
+ "title": "Node.js Tashkent Meetup #12",
+ "description": "Express va backend haqida suhbat",
+ "category": "meetup", 
+ "city": "Toshkent",
+ "venue": "IT Park, 3-qavat",
+ "starts_at": "2026-11-15T18:00:00.000Z",
+ "price": 0, 
+ "capacity": 120,
+ "available_seats": 120,
+ "created_at": "2026-10-01T10:00:00.000Z"
+}
+]
